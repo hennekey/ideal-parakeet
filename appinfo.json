@@ -1,0 +1,19 @@
+{
+  "uuid": "5c55ba11-567f-4251-a86d-975f5922286d",
+  "shortName": "ideal-parakeet",
+  "longName": "ideal-parakeet",
+  "companyName": "Hennekey",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
